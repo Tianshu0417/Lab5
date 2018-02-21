@@ -26,6 +26,10 @@ public class Bank {
      * @return boolean
      */
     public boolean withdrawMoney(final BankAccount bankAccount, final double amount) {
+
+        }
+
+
         /*
          * Implement this function
          */
@@ -61,6 +65,7 @@ public class Bank {
 
     public boolean transferMoney(final BankAccount source, final BankAccount destination,
             final double amount) {
+
         /*
          * Implement this function
          */
